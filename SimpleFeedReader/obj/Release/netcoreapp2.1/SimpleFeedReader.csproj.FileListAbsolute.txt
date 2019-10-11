@@ -1,0 +1,5 @@
+C:\GIT\simple-feed-reader\SimpleFeedReader\bin\Release\netcoreapp2.1\SimpleFeedReader.deps.json
+C:\GIT\simple-feed-reader\SimpleFeedReader\bin\Release\netcoreapp2.1\SimpleFeedReader.runtimeconfig.json
+C:\GIT\simple-feed-reader\SimpleFeedReader\bin\Release\netcoreapp2.1\SimpleFeedReader.runtimeconfig.dev.json
+C:\GIT\simple-feed-reader\SimpleFeedReader\obj\Release\netcoreapp2.1\SimpleFeedReader.csprojResolveAssemblyReference.cache
+C:\GIT\simple-feed-reader\SimpleFeedReader\obj\Release\netcoreapp2.1\SimpleFeedReader.AssemblyInfo.cs
